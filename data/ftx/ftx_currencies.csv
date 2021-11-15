@@ -1,0 +1,558 @@
+curr_code,name,leveraged,is_index,weight_total,weight_init,imf_factor
+1INCH,1INCH Token,False,False,0.9,0.85,0.0005
+AAPL,Apple,False,False,0.9,0.85,0.005
+AAVE,Aave,False,False,0.9,0.85,0.0025
+ABNB,Airbnb,False,False,0.9,0.85,0.005
+ACB,Aurora Cannabis Inc,False,False,0.9,0.85,0.0025
+ADA,Cardano,False,False,0.0,0.0,
+ADABEAR,3X Short Cardano Token,True,False,0.0,0.0,
+ADABULL,3X Long Cardano Token,True,False,0.0,0.0,
+ADADOOM,10X Short Cardano Token,True,False,0.0,0.0,
+ADAHALF,0.5X Long Cardano Token,True,False,0.0,0.0,
+ADAHEDGE,1X Short Cardano Token,True,False,0.0,0.0,
+ADAMOON,10X Long Cardano Token,True,False,0.0,0.0,
+AFCWIN-SB-2021,American Football Conference Wins Superbowl 2021 Token,False,False,0.0,0.0,
+AGLD,Adventure Gold,False,False,0.0,0.0,
+AKRO,Akropolis,False,False,0.0,0.0,
+ALCX,Alchemix,False,False,0.0,0.0,
+ALEPH,Aleph.im,False,False,0.0,0.0,
+ALGO,Algorand,False,False,0.0,0.0,
+ALGOBEAR,3X Short Algorand Token,True,False,0.0,0.0,
+ALGOBULL,3X Long Algorand Token,True,False,0.0,0.0,
+ALGODOOM,10X Short Algorand Token,True,False,0.0,0.0,
+ALGOHALF,0.5X Long Algorand Token,True,False,0.0,0.0,
+ALGOHEDGE,1X Short Algorand Token,True,False,0.0,0.0,
+ALGOMOON,10X Long Algorand Token,True,False,0.0,0.0,
+ALICE,MyNeighborAlice,False,False,0.0,0.0,
+ALPHA,Alpha Finance,False,False,0.9,0.85,0.00025
+ALT,Altcoin Index,False,True,0.0,0.0,
+ALTBEAR,3X Short Altcoin Index Token,True,True,0.0,0.0,
+ALTBULL,3X Long Altcoin Index Token,True,True,0.0,0.0,
+ALTDOOM,10X Short Altcoin Index Token,True,True,0.0,0.0,
+ALTHALF,0.5X Long Altcoin Index Token,True,True,0.0,0.0,
+ALTHEDGE,1X Short Altcoin Index Token,True,True,0.0,0.0,
+ALTMOON,10X Long Altcoin Index Token,True,True,0.0,0.0,
+AMC,AMC Entertainment Holdings,False,False,0.9,0.85,0.0025
+AMD,Advanced Micro Devices,False,False,0.9,0.85,0.005
+AMPL,Ampleforth,False,False,0.0,0.0,
+AMZN,Amazon,False,False,0.9,0.85,0.03
+APHA,Aphria Inc,False,False,0.9,0.85,0.001
+AR,Arweave,False,False,0.0,0.0,
+ARKK,ARK Innovation ETF,False,False,0.9,0.85,0.005
+ASD,AscendEx Token (BTMX),False,False,0.0,0.0,
+ASDBEAR,3X Short AscendEx Token (BTMX) Token,True,False,0.0,0.0,
+ASDBULL,3X Long AscendEx Token (BTMX) Token,True,False,0.0,0.0,
+ASDDOOM,10X Short AscendEx Token (BTMX) Token,True,False,0.0,0.0,
+ASDHALF,0.5X Long AscendEx Token (BTMX) Token,True,False,0.0,0.0,
+ASDHEDGE,1X Short AscendEx Token (BTMX) Token,True,False,0.0,0.0,
+ASDMOON,10X Long AscendEx Token (BTMX) Token,True,False,0.0,0.0,
+ATLAS,Atlas,False,False,0.0,0.0,
+ATOM,Cosmos,False,False,0.0,0.0,
+ATOMBEAR,3X Short Cosmos Token,True,False,0.0,0.0,
+ATOMBULL,3X Long Cosmos Token,True,False,0.0,0.0,
+ATOMDOOM,10X Short Cosmos Token,True,False,0.0,0.0,
+ATOMHALF,0.5X Long Cosmos Token,True,False,0.0,0.0,
+ATOMHEDGE,1X Short Cosmos Token,True,False,0.0,0.0,
+ATOMMOON,10X Long Cosmos Token,True,False,0.0,0.0,
+AUD,Australian Dollar,False,False,0.99,0.98,1e-05
+AUDIO,Audius,False,False,0.0,0.0,
+AURY,Aurory,False,False,0.0,0.0,
+AVAX,Avalanche,False,False,0.0,0.0,
+AXS,Axie Infinity,False,False,0.0,0.0,
+BABA,Alibaba,False,False,0.9,0.85,0.01
+BADGER,Badger,False,False,0.85,0.8,0.0025
+BAL,Balancer,False,False,0.0,0.0,
+BALBEAR,3X Short Balancer Token,True,False,0.0,0.0,
+BALBULL,3X Long Balancer Token,True,False,0.0,0.0,
+BALHALF,0.5X Long Balancer Token,True,False,0.0,0.0,
+BALHEDGE,1X Short Balancer Token,True,False,0.0,0.0,
+BAND,Band Protocol,False,False,0.85,0.8,0.001
+BAO,BaoToken,False,False,0.85,0.8,2.5e-05
+BAR,FC Barcelona Fan Token,False,False,0.0,0.0,
+BAT,Basic Attention Token,False,False,0.0,0.0,
+BB,BlackBerry,False,False,0.9,0.85,0.0025
+BCH,Bitcoin Cash,False,False,0.95,0.9,0.0008
+BCHBEAR,3X Short Bitcoin Cash Token,True,False,0.0,0.0,
+BCHBULL,3X Long Bitcoin Cash Token,True,False,0.0,0.0,
+BCHDOOM,10X Short Bitcoin Cash Token,True,False,0.0,0.0,
+BCHHALF,0.5X Long Bitcoin Cash Token,True,False,0.0,0.0,
+BCHHEDGE,1X Short Bitcoin Cash Token,True,False,0.0,0.0,
+BCHL3,3X Long Huobi/FTX Bitcoin Cash Token,False,False,0.0,0.0,
+BCHMOON,10X Long Bitcoin Cash Token,True,False,0.0,0.0,
+BCHS3,3X Short Huobi/FTX Bitcoin Cash Token,False,False,0.0,0.0,
+BEAR,3X Short Bitcoin Token,True,False,0.0,0.0,
+BEARSHIT,3X Short Shitcoin Index Token,True,True,0.0,0.0,
+BERNIE,Bernie 2020,False,False,0.0,0.0,
+BIDEN,Biden 2020,False,False,0.0,0.0,
+BILI,Bilibili Inc,False,False,0.9,0.85,0.005
+BIT,BitDAO,False,False,0.0,0.0,
+BITO,ProShares Bitcoin Strategy ETF,False,False,0.0,0.0,
+BITW,Bitwise 10 Crypto Index Fund,False,True,0.9,0.85,0.005
+BLOOMBERG,Bloomberg 2020,False,False,0.0,0.0,
+BLT,Blocto,False,False,0.0,0.0,
+BNB,Binance Coin,False,False,0.95,0.9,0.0005
+BNBBEAR,3X Short BNB Token,True,False,0.0,0.0,
+BNBBULL,3X Long BNB Token,True,False,0.0,0.0,
+BNBDOOM,10X Short BNB Token,True,False,0.0,0.0,
+BNBHALF,0.5X Long BNB Token,True,False,0.0,0.0,
+BNBHEDGE,1X Short BNB Token,True,False,0.0,0.0,
+BNBMOON,10X Long BNB Token,True,False,0.0,0.0,
+BNT,Bancor Network Token,False,False,0.9,0.85,0.0025
+BNTX,BioNTech,False,False,0.9,0.85,0.005
+BOBA,Boba,False,False,0.0,0.0,
+BOLSONARO2022,Bolsonaro 2022,False,False,0.0,0.0,
+BRL,Brazilian Real,False,False,0.99,0.98,1e-05
+BRZ,Brazilian Digital Token,False,False,0.99,0.98,1e-05
+BSV,Bitcoin SV,False,False,0.0,0.0,
+BSVBEAR,3X Short Bitcoin SV Token,True,False,0.0,0.0,
+BSVBULL,3X Long Bitcoin SV Token,True,False,0.0,0.0,
+BSVDOOM,10X Short Bitcoin SV Token,True,False,0.0,0.0,
+BSVHALF,0.5X Long Bitcoin SV Token,True,False,0.0,0.0,
+BSVHEDGE,1X Short Bitcoin SV Token,True,False,0.0,0.0,
+BSVL3,3X Long Huobi/FTX Bitcoin SV Token,False,False,0.0,0.0,
+BSVMOON,10X Long Bitcoin SV Token,True,False,0.0,0.0,
+BSVS3,3X Short Huobi/FTX Bitcoin SV Token,False,False,0.0,0.0,
+BTC,Bitcoin,False,False,0.975,0.95,0.002
+BTC-HASH,Bitcoin Hashrate,False,False,0.0,0.0,
+BTCL3,3X Long Huobi/FTX Bitcoin Token,False,False,0.0,0.0,
+BTCS3,3X Short Huobi/FTX Bitcoin Token,False,False,0.0,0.0,
+BTT,BitTorrent,False,False,0.0,0.0,
+BULL,3X Long Bitcoin Token,True,False,0.0,0.0,
+BULLSHIT,3X Long Shitcoin Index Token,True,True,0.0,0.0,
+BUSD,Binance USD,False,False,1.0,1.0,0.0
+BVOL,Bitcoin Volatility Token,True,False,0.85,0.8,0.005
+BYND,Beyond Meat Inc,False,False,0.9,0.85,0.0075
+C98,Coin98,False,False,0.0,0.0,
+CAD,Canadian Dollar,False,False,0.99,0.98,1e-05
+CAKE,PancakeSwap,False,False,0.0,0.0,
+CARLSEN2021,Carlsen 2021 FTX Crypto Cup,False,False,0.0,0.0,
+CBSE,Coinbase,False,False,0.0,0.0,
+CEL,Celsius Network,False,False,0.85,0.8,0.001
+CELO,Celo,False,False,0.0,0.0,
+CGC,Canopy Growth Corp,False,False,0.9,0.85,0.0025
+CHR,Chromia,False,False,0.0,0.0,
+CHZ,Chiliz,False,False,0.0,0.0,
+CITY,Manchester City FC Fan Token,False,False,0.0,0.0,
+CLV,Clover,False,False,0.0,0.0,
+CLVBEAR,3X Short Clover Token,False,False,0.0,0.0,
+CLVBULL,3X Long Clover Token,False,False,0.0,0.0,
+COIN,Coinbase,False,False,0.85,0.8,0.01
+COMP,Compound Token,False,False,0.9,0.85,0.002
+COMPBEAR,3X Short Compound Token Token,True,False,0.0,0.0,
+COMPBULL,3X Long Compound Token Token,True,False,0.0,0.0,
+COMPHALF,0.5X Long Compound Token Token,True,False,0.0,0.0,
+COMPHEDGE,1X Short Compound Token Token,True,False,0.0,0.0,
+CONV,Convergence,False,False,0.0,0.0,
+COPE,Cope,False,False,0.6,0.55,0.02
+CQT,Covalent,False,False,0.0,0.0,
+CREAM,Cream,False,False,0.0,0.0,
+CRO,Crypto.com Coin,False,False,0.0,0.0,
+CRON,Chronos Group Inc,False,False,0.9,0.85,0.001
+CRV,Curve DAO Token,False,False,0.0,0.0,
+CUSDT,Compound USDT,False,False,0.9,0.85,1e-05
+CUSDTBEAR,3X Short Compound USDT Token,True,False,0.0,0.0,
+CUSDTBULL,3X Long Compound USDT Token,True,False,0.0,0.0,
+CUSDTHALF,0.5X Long Compound USDT Token,True,False,0.0,0.0,
+CUSDTHEDGE,1X Short Compound USDT Token,True,False,0.0,0.0,
+CVC,Civic,False,False,0.0,0.0,
+DAI,Dai,False,False,0.9,0.85,5e-05
+DASH,Dash,False,False,0.0,0.0,
+DAWN,Dawn Protocol,False,False,0.0,0.0,
+DEFI,DeFi Index,False,True,0.0,0.0,
+DEFIBEAR,3X Short DeFi Index Token,True,True,0.0,0.0,
+DEFIBULL,3X Long DeFi Index Token,True,True,0.0,0.0,
+DEFIHALF,0.5X Long DeFi Index Token,True,True,0.0,0.0,
+DEFIHEDGE,1X Short DeFi Index Token,True,True,0.0,0.0,
+DEMSENATE,Democratic Senate 2020,False,False,0.0,0.0,
+DENT,Dent,False,False,0.0,0.0,
+DKNG,DraftKings,False,False,0.0,0.0,
+DMG,DMM Governance,False,False,0.0,0.0,
+DMGBEAR,3X Short DMM Governance Token,True,False,0.0,0.0,
+DMGBULL,3X Long DMM Governance Token,True,False,0.0,0.0,
+DMGHALF,0.5X Long DMM Governance Token,True,False,0.0,0.0,
+DMGHEDGE,1X Short DMM Governance Token,True,False,0.0,0.0,
+DODO,DODO,False,False,0.0,0.0,
+DOGE,Dogecoin,False,False,0.95,0.9,2e-05
+DOGEBEAR,3X Short Dogecoin Token,True,False,0.0,0.0,
+DOGEBEAR2021,3X Short Dogecoin Token,True,False,0.0,0.0,
+DOGEBULL,3X Long Dogecoin Token,True,False,0.0,0.0,
+DOGEDOOM,10X Short Dogecoin Token,True,False,0.0,0.0,
+DOGEHALF,0.5X Long Dogecoin Token,True,False,0.0,0.0,
+DOGEHEDGE,1X Short Dogecoin Token,True,False,0.0,0.0,
+DOGEMOON,10X Long Dogecoin Token,True,False,0.0,0.0,
+DOOM,10X Short Bitcoin Token,True,False,0.0,0.0,
+DOOMSHIT,10X Short Shitcoin Index Token,True,True,0.0,0.0,
+DOT,Polkadot,False,False,0.0,0.0,
+DRGN,Dragon Index,False,True,0.0,0.0,
+DRGNBEAR,3X Short Dragon Index Token,True,True,0.0,0.0,
+DRGNBULL,3X Long Dragon Index Token,True,True,0.0,0.0,
+DRGNDOOM,10X Short Dragon Index Token,True,True,0.0,0.0,
+DRGNHALF,0.5X Long Dragon Index Token,True,True,0.0,0.0,
+DRGNHEDGE,1X Short Dragon Index Token,True,True,0.0,0.0,
+DRGNMOON,10X Long Dragon Index Token,True,True,0.0,0.0,
+DYDX,dYdX,False,False,0.0,0.0,
+EDEN,EDEN,False,False,0.0,0.0,
+EGLD,Elrond,False,False,0.0,0.0,
+EMB,Overline Emblem,False,False,0.0,0.0,
+ENJ,Enjin Coin,False,False,0.0,0.0,
+ENS,Ethereum Name Service,False,False,0.0,0.0,
+EOS,EOS,False,False,0.0,0.0,
+EOSBEAR,3X Short EOS Token,True,False,0.0,0.0,
+EOSBULL,3X Long EOS Token,True,False,0.0,0.0,
+EOSDOOM,10X Short EOS Token,True,False,0.0,0.0,
+EOSHALF,0.5X Long EOS Token,True,False,0.0,0.0,
+EOSHEDGE,1X Short EOS Token,True,False,0.0,0.0,
+EOSMOON,10X Long EOS Token,True,False,0.0,0.0,
+ETC,Ethereum Classic,False,False,0.0,0.0,
+ETCBEAR,3X Short Ethereum Classic Token,True,False,0.0,0.0,
+ETCBULL,3X Long Ethereum Classic Token,True,False,0.0,0.0,
+ETCDOOM,10X Short Ethereum Classic Token,True,False,0.0,0.0,
+ETCHALF,0.5X Long Ethereum Classic Token,True,False,0.0,0.0,
+ETCHEDGE,1X Short Ethereum Classic Token,True,False,0.0,0.0,
+ETCMOON,10X Long Ethereum Classic Token,True,False,0.0,0.0,
+ETH,Ethereum,False,False,0.95,0.9,0.0004
+ETHBEAR,3X Short Ethereum Token,True,False,0.0,0.0,
+ETHBULL,3X Long Ethereum Token,True,False,0.0,0.0,
+ETHDOOM,10X Short Ethereum Token,True,False,0.0,0.0,
+ETHE,Grayscale Ethereum Trust,False,False,0.9,0.85,0.0025
+ETHHALF,0.5X Long Ethereum Token,True,False,0.0,0.0,
+ETHHEDGE,1X Short Ethereum Token,True,False,0.0,0.0,
+ETHMOON,10X Long Ethereum Token,True,False,0.0,0.0,
+EUR,Euro,False,False,0.99,0.98,1e-05
+EXCH,Exchange Token Index,False,True,0.0,0.0,
+EXCHBEAR,3X Short Exchange Token Index Token,True,True,0.0,0.0,
+EXCHBULL,3X Long Exchange Token Index Token,True,True,0.0,0.0,
+EXCHDOOM,10X Short Exchange Token Index Token,True,True,0.0,0.0,
+EXCHHALF,0.5X Long Exchange Token Index Token,True,True,0.0,0.0,
+EXCHHEDGE,1X Short Exchange Token Index Token,True,True,0.0,0.0,
+EXCHMOON,10X Long Exchange Token Index Token,True,True,0.0,0.0,
+FB,Facebook,False,False,0.9,0.85,0.01
+FIDA,Bonfida Token,False,False,0.85,0.8,0.001
+FIL,Filecoin,False,False,0.0,0.0,
+FLM,Flamingo,False,False,0.0,0.0,
+FLOW,Flow,False,False,0.0,0.0,
+FRONT,Frontier Token,False,False,0.0,0.0,
+FTM,Fantom,False,False,0.85,0.8,0.0005
+FTT,FTX Token,False,False,0.95,0.95,0.0005
+GAL,Galatasaray,False,False,0.0,0.0,
+GBP,British Pound,False,False,0.99,0.98,1e-05
+GBTC,Grayscale Bitcoin Trust,False,False,0.9,0.85,0.0025
+GDX,VanEck Vectors Gold Miners Etf,False,False,0.9,0.85,0.0025
+GDXJ,VanEck Vectors Junior Gold Miners Etf,False,False,0.9,0.85,0.005
+GLD,SPDR Gold Shares,False,False,0.9,0.85,0.005
+GLXY,Galaxy Digital Holdings,False,False,0.9,0.85,0.005
+GME,GameStop,False,False,0.9,0.85,0.005
+GODS,Gods Unchained,False,False,0.0,0.0,
+GOOGL,Google,False,False,0.9,0.85,0.025
+GRT,Graph Token,False,False,0.9,0.85,0.00025
+GRTBEAR,3X Short Graph Token Token,True,False,0.0,0.0,
+GRTBULL,3X Long Graph Token Token,True,False,0.0,0.0,
+GT,Gate Token,False,False,0.0,0.0,
+HALF,0.5X Long Bitcoin Token,True,False,0.0,0.0,
+HALFSHIT,0.5X Long Shitcoin Index Token,True,True,0.0,0.0,
+HASH,Hashrate,False,False,0.0,0.0,
+HBAR,Hedera Hashgraph,False,False,0.0,0.0,
+HEDGE,1X Short Bitcoin Token,True,False,0.0,0.0,
+HEDGESHIT,1X Short Shitcoin Index Token,True,True,0.0,0.0,
+HGET,Hedget,False,False,0.0,0.0,
+HMT,HUMAN Protocol,False,False,0.0,0.0,
+HNT,Helium,False,False,0.0,0.0,
+HOLY,Holy Trinity Pool,False,False,0.9,0.85,0.0005
+HOOD,Robinhood,False,False,0.85,0.8,0.005
+HOT,Holo,False,False,0.0,0.0,
+HT,Huobi Token,False,False,0.9,0.85,0.0003
+HTBEAR,3X Short Huobi Token Token,True,False,0.0,0.0,
+HTBULL,3X Long Huobi Token Token,True,False,0.0,0.0,
+HTDOOM,10X Short Huobi Token Token,True,False,0.0,0.0,
+HTHALF,0.5X Long Huobi Token Token,True,False,0.0,0.0,
+HTHEDGE,1X Short Huobi Token Token,True,False,0.0,0.0,
+HTMOON,10X Long Huobi Token Token,True,False,0.0,0.0,
+HUM,Humanscape,False,False,0.0,0.0,
+HUSD,HUSD,False,False,1.0,1.0,0.0
+HXRO,Hxro,False,False,0.85,0.8,0.001
+IBVOL,Inverse Bitcoin Volatility Token,True,False,0.85,0.8,0.015
+ICP,Internet Computer,False,False,0.0,0.0,
+ICX,ICON,False,False,0.0,0.0,
+IMX,Immutable X Token,False,False,0.0,0.0,
+INTER,Inter Milan,False,False,0.0,0.0,
+IOTA,MIOTA,False,False,0.0,0.0,
+IOTABEAR,3X Short MIOTA Token,False,False,0.0,0.0,
+IOTABULL,3X Long MIOTA Token,False,False,0.0,0.0,
+JET,JET,False,False,0.0,0.0,
+JST,JUST,False,False,0.0,0.0,
+KAVA,Kava.io,False,False,0.0,0.0,
+KIN,Kin,False,False,0.85,0.8,8e-06
+KNC,Kyber Network,False,False,0.95,0.9,0.001
+KNCBEAR,3X Short Kyber Network Token,True,False,0.0,0.0,
+KNCBULL,3X Long Kyber Network Token,True,False,0.0,0.0,
+KNCHALF,0.5X Long Kyber Network Token,True,False,0.0,0.0,
+KNCHEDGE,1X Short Kyber Network Token,True,False,0.0,0.0,
+KSHIB,Kilo Shiba Inu,False,False,0.0,0.0,
+KSM,Kusama,False,False,0.0,0.0,
+LB,Lumber,False,False,0.0,0.0,
+LEND,Aave,False,False,0.0,0.0,
+LEO,LEO,False,False,0.85,0.8,0.001
+LEOBEAR,3X Short LEO Token,True,False,0.0,0.0,
+LEOBULL,3X Long LEO Token,True,False,0.0,0.0,
+LEODOOM,10X Short LEO Token,True,False,0.0,0.0,
+LEOHALF,0.5X Long LEO Token,True,False,0.0,0.0,
+LEOHEDGE,1X Short LEO Token,True,False,0.0,0.0,
+LEOMOON,10X Long LEO Token,True,False,0.0,0.0,
+LINA,Linear Token,False,False,0.0,0.0,
+LINK,ChainLink Token,False,False,0.95,0.9,0.0004
+LINKBEAR,3X Short Chainlink Token,True,False,0.0,0.0,
+LINKBULL,3X Long Chainlink Token,True,False,0.0,0.0,
+LINKDOOM,10X Short Chainlink Token,True,False,0.0,0.0,
+LINKHALF,0.5X Long Chainlink Token,True,False,0.0,0.0,
+LINKHEDGE,1X Short Chainlink Token,True,False,0.0,0.0,
+LINKMOON,10X Long Chainlink Token,True,False,0.0,0.0,
+LOGAN2021,Logan vs Mayweather 2021,False,False,0.0,0.0,
+LRC,Loopring,False,False,0.85,0.8,0.0005
+LTC,Litecoin,False,False,0.95,0.9,0.0004
+LTCBEAR,3X Short Litecoin Token,True,False,0.0,0.0,
+LTCBULL,3X Long Litecoin Token,True,False,0.0,0.0,
+LTCDOOM,10X Short Litecoin Token,True,False,0.0,0.0,
+LTCHALF,0.5X Long Litecoin Token,True,False,0.0,0.0,
+LTCHEDGE,1X Short Litecoin Token,True,False,0.0,0.0,
+LTCMOON,10X Long Litecoin Token,True,False,0.0,0.0,
+LUA,LuaToken,False,False,0.0,0.0,
+LUNA,Terra,False,False,0.0,0.0,
+MANA,Decentraland,False,False,0.0,0.0,
+MAPS,Maps.me Token,False,False,0.0,0.0,
+MATH,MATH Token,False,False,0.0,0.0,
+MATIC,Matic,False,False,0.85,0.8,4e-05
+MATICBEAR,3X Short Matic Token,True,False,0.0,0.0,
+MATICBEAR2021,3X Short Matic Token,True,False,0.0,0.0,
+MATICBULL,3X Long Matic Token,True,False,0.0,0.0,
+MATICDOOM,10X Short Matic Token,True,False,0.0,0.0,
+MATICHALF,0.5X Long Matic Token,True,False,0.0,0.0,
+MATICHEDGE,1X Short Matic Token,True,False,0.0,0.0,
+MATICMOON,10X Long Matic Token,True,False,0.0,0.0,
+MCB,MCDEX,False,False,0.0,0.0,
+MEDIA,MEDIA,False,False,0.0,0.0,
+MER,Mercurial,False,False,0.0,0.0,
+MID,Midcap Index,False,True,0.0,0.0,
+MIDBEAR,3X Short Midcap Index Token,True,True,0.0,0.0,
+MIDBULL,3X Long Midcap Index Token,True,True,0.0,0.0,
+MIDDOOM,10X Short Midcap Index Token,True,True,0.0,0.0,
+MIDHALF,0.5X Long Midcap Index Token,True,True,0.0,0.0,
+MIDHEDGE,1X Short Midcap Index Token,True,True,0.0,0.0,
+MIDMOON,10X Long Midcap Index Token,True,True,0.0,0.0,
+MKR,Maker,False,False,0.9,0.85,0.007
+MKRBEAR,3X Short Maker Token,True,False,0.0,0.0,
+MKRBULL,3X Long Maker Token,True,False,0.0,0.0,
+MKRHALF,0.5X Long Maker Token,True,False,0.0,0.0,
+MKRHEDGE,1X Short Maker Token,True,False,0.0,0.0,
+MNGO,Mango Protocol,False,False,0.0,0.0,
+MOB,MobileCoin,False,False,0.6,0.55,0.005
+MOON,10X Long Bitcoin Token,True,False,0.0,0.0,
+MOONSHIT,10X Long Shitcoin Index Token,True,True,0.0,0.0,
+MRNA,Moderna,False,False,0.9,0.85,0.005
+MSOL,Marinade Staked SOL,False,False,0.9,0.85,0.0004
+MSRM,MegaSerum,False,False,0.0,0.0,
+MSRM_LOCKED,Locked MegaSerum,False,False,0.0,0.0,
+MSTR,MicroStrategy,False,False,0.9,0.85,0.008
+MTA,Meta,False,False,0.0,0.0,
+MTL,Metal,False,False,0.0,0.0,
+MVDA10,MVIS Digital Assets 10 Index,False,True,0.0,0.0,
+MVDA25,MVIS Digital Assets 25 Index,False,True,0.0,0.0,
+NEAR,Near,False,False,0.0,0.0,
+NEO,NEO,False,False,0.0,0.0,
+NFC-SB-2021,National Football Conference Superbowl 2021,False,False,0.0,0.0,
+NFCWIN-SB-2021,National Football Conference Wins Superbowl 2021 Token,False,False,0.0,0.0,
+NFLX,Netflix,False,False,0.9,0.85,0.01
+NIO,Nio,False,False,0.9,0.85,0.004
+NOK,Nokia,False,False,0.9,0.85,0.001
+NPXS,Pundi X,False,False,0.0,0.0,
+NVDA,NVIDIA,False,False,0.9,0.85,0.01
+OIL100,Crude Oil,False,False,0.0,0.0,
+OKB,OKB,False,False,0.9,0.85,0.0003
+OKBBEAR,3X Short OKB Token,True,False,0.0,0.0,
+OKBBULL,3X Long OKB Token,True,False,0.0,0.0,
+OKBDOOM,10X Short OKB Token,True,False,0.0,0.0,
+OKBHALF,0.5X Long OKB Token,True,False,0.0,0.0,
+OKBHEDGE,1X Short OKB Token,True,False,0.0,0.0,
+OKBMOON,10X Long OKB Token,True,False,0.0,0.0,
+OLY2021,Olympics 2021,False,False,0.0,0.0,
+OMG,OMG Network,False,False,0.85,0.8,0.001
+ONE,Harmony,False,False,0.0,0.0,
+ONT,Ontology,False,False,0.0,0.0,
+ORBS,Orbs,False,False,0.0,0.0,
+OXY,Oxygen Protocol,False,False,0.0,0.0,
+PAX,Paxos Standard,False,False,0.0,0.0,
+PAXG,PAX Gold,False,False,0.95,0.9,0.002
+PAXGBEAR,3X Short PAX Gold Token,True,False,0.0,0.0,
+PAXGBULL,3X Long PAX Gold Token,True,False,0.0,0.0,
+PAXGHALF,0.5X Long PAX Gold Token,True,False,0.0,0.0,
+PAXGHEDGE,1X Short PAX Gold Token,True,False,0.0,0.0,
+PENN,Penn National Gaming,False,False,0.9,0.85,0.005
+PERP,Perpetual,False,False,0.0,0.0,
+PETE,Buttigieg 2020,False,False,0.0,0.0,
+PFE,Pfizer,False,False,0.9,0.85,0.004
+POLIS,Polis,False,False,0.0,0.0,
+PORT,Port Finance,False,False,0.0,0.0,
+PRIV,Privacy Index,False,True,0.0,0.0,
+PRIVBEAR,3X Short Privacy Index Token,True,True,0.0,0.0,
+PRIVBULL,3X Long Privacy Index Token,True,True,0.0,0.0,
+PRIVHALF,0.5X Long Privacy Index Token,True,True,0.0,0.0,
+PRIVHEDGE,1X Short Privacy Index Token,True,True,0.0,0.0,
+PROM,Prometeus,False,False,0.0,0.0,
+PSG,Paris Saint-Germain Fan Token,False,False,0.0,0.0,
+PUNDIX,Pundi X,False,False,0.0,0.0,
+PYPL,PayPal,False,False,0.9,0.85,0.008
+QTUM,Qtum,False,False,0.0,0.0,
+RAMP,RAMP,False,False,0.0,0.0,
+RAY,Raydium,False,False,0.85,0.8,0.0005
+REEF,Reef Finance,False,False,0.0,0.0,
+REN,REN,False,False,0.9,0.85,0.00025
+ROOK,KeeperDAO,False,False,0.0,0.0,
+RSR,Reserve Rights,False,False,0.85,0.8,0.0001
+RUNE,Thorchain,False,False,0.85,0.8,0.001
+SAND,SAND,False,False,0.0,0.0,
+SC,Siacoin,False,False,0.0,0.0,
+SECO,Serum Ecosystem Pool Token,False,False,0.9,0.85,0.0005
+SGD,Singapore Dollar,False,False,0.99,0.98,1e-05
+SHIB,Shiba Inu,False,False,0.0,0.0,
+SHIT,Shitcoin Index,False,True,0.0,0.0,
+SKL,SKALE,False,False,0.0,0.0,
+SLND,Solend,False,False,0.0,0.0,
+SLP,Smooth Love Potion,False,False,0.0,0.0,
+SLPBEAR,3X Short Smooth Love Potion Token,False,False,0.0,0.0,
+SLPBULL,3X Long Smooth Love Potion Token,False,False,0.0,0.0,
+SLRS,Solrise,False,False,0.0,0.0,
+SLV,iShares Silver Trust,False,False,0.9,0.85,0.0025
+SNX,Synthetix Network Token,False,False,0.85,0.8,0.001
+SNY,Synthetify,False,False,0.0,0.0,
+SOL,Solana,False,False,0.9,0.85,0.0004
+SOL-OVER-TWO,SOL Trades Over Two Dollars,False,False,0.0,0.0,
+SPELL,Spell Token,False,False,0.0,0.0,
+SPY,SPDR S&P 500 ETF,False,False,0.9,0.85,0.01
+SQ,Square,False,False,0.9,0.85,0.008
+SRM,Serum,False,False,0.9,0.85,0.0005
+SRM_LOCKED,Locked Serum,False,False,0.0,0.0,
+SRN,Sirin Labs Token,False,False,0.0,0.0,
+SRNBEAR,3X Short Sirin Labs Token Token,False,False,0.0,0.0,
+SRNBULL,3X Long Sirin Labs Token Token,False,False,0.0,0.0,
+STARS,StarLaunch,False,False,0.0,0.0,
+STEP,Step Finance,False,False,0.0,0.0,
+STETH,Lido Staked Ether,False,False,0.9,0.85,0.0012
+STMX,StormX,False,False,0.0,0.0,
+STMXBEAR,3X Short StormX Token,False,False,0.0,0.0,
+STMXBULL,3X Long StormX Token,False,False,0.0,0.0,
+STORJ,Storj,False,False,0.0,0.0,
+STSOL,Lido Staked SOL,False,False,0.9,0.85,0.0004
+STX,Stacks,False,False,0.0,0.0,
+SUN,SUN,False,False,0.0,0.0,
+SUSHI,Sushi,False,False,0.95,0.9,0.001
+SUSHIBEAR,3X Short Sushi Token,True,False,0.0,0.0,
+SUSHIBULL,3X Long Sushi Token,True,False,0.0,0.0,
+SUSHIHALF,0.5X Long Sushi Token,True,False,0.0,0.0,
+SUSHIHEDGE,1X Short Sushi Token,True,False,0.0,0.0,
+SXP,Swipe,False,False,0.9,0.85,0.0005
+SXPBEAR,3X Short Swipe Token,True,False,0.0,0.0,
+SXPBULL,3X Long Swipe Token,True,False,0.0,0.0,
+SXPHALF,0.5X Long Swipe Token,True,False,0.0,0.0,
+SXPHEDGE,1X Short Swipe Token,True,False,0.0,0.0,
+THETA,Theta Network,False,False,0.0,0.0,
+THETABEAR,3X Short Theta Network Token,True,False,0.0,0.0,
+THETABULL,3X Long Theta Network Token,True,False,0.0,0.0,
+THETAHALF,0.5X Long Theta Network Token,True,False,0.0,0.0,
+THETAHEDGE,1X Short Theta Network Token,True,False,0.0,0.0,
+TLM,Alien Worlds,False,False,0.0,0.0,
+TLRY,Tilray Inc,False,False,0.9,0.85,0.001
+TOMO,TomoChain,False,False,0.85,0.8,0.0005
+TOMOBEAR,3X Short TomoChain Token,True,False,0.0,0.0,
+TOMOBEAR2021,3X Short TomoChain Token,True,False,0.0,0.0,
+TOMOBULL,3X Long TomoChain Token,True,False,0.0,0.0,
+TOMODOOM,10X Short TomoChain Token,True,False,0.0,0.0,
+TOMOHALF,0.5X Long TomoChain Token,True,False,0.0,0.0,
+TOMOHEDGE,1X Short TomoChain Token,True,False,0.0,0.0,
+TOMOMOON,10X Long TomoChain Token,True,False,0.0,0.0,
+TONCOIN,TON Coin,False,False,0.0,0.0,
+TRU,TrueFi,False,False,0.0,0.0,
+TRUMP,Trump 2020,False,False,0.0,0.0,
+TRUMP2024,Trump 2024,False,False,0.0,0.0,
+TRUMPFEB,Trump February,False,False,0.0,0.0,
+TRUMPGO,Trump Goes Token,False,False,0.0,0.0,
+TRUMPLOSE,Trump Loses Token,False,False,0.0,0.0,
+TRUMPSTAY,Trump Stays Token,False,False,0.0,0.0,
+TRUMPWIN,Trump Wins Token,False,False,0.0,0.0,
+TRX,TRON,False,False,0.9,0.85,1e-05
+TRXBEAR,3X Short TRX Token,True,False,0.0,0.0,
+TRXBULL,3X Long TRX Token,True,False,0.0,0.0,
+TRXDOOM,10X Short TRX Token,True,False,0.0,0.0,
+TRXHALF,0.5X Long TRX Token,True,False,0.0,0.0,
+TRXHEDGE,1X Short TRX Token,True,False,0.0,0.0,
+TRXMOON,10X Long TRX Token,True,False,0.0,0.0,
+TRYB,BiLira,False,False,0.9,0.85,1e-05
+TRYBBEAR,3X Short BiLira Token,True,False,0.0,0.0,
+TRYBBULL,3X Long BiLira Token,True,False,0.0,0.0,
+TRYBHALF,0.5X Long BiLira Token,True,False,0.0,0.0,
+TRYBHEDGE,1X Short BiLira Token,True,False,0.0,0.0,
+TSLA,Tesla,False,False,0.9,0.85,0.01
+TSM,Taiwan Semiconductor Mfg,False,False,0.9,0.85,0.015
+TULIP,Tulip Protocol,False,False,0.0,0.0,
+TUSD,TrueUSD,False,False,1.0,1.0,0.0
+TWTR,Twitter,False,False,0.9,0.85,0.004
+UBER,Uber,False,False,0.9,0.85,0.004
+UBXT,UpBots,False,False,0.0,0.0,
+UNI,Uniswap Protocol Token,False,False,0.95,0.9,0.001
+UNISWAP,Uniswap,False,False,0.0,0.0,
+UNISWAPBEAR,3X Short Uniswap Index Token,True,True,0.0,0.0,
+UNISWAPBULL,3X Long Uniswap Index Token,True,True,0.0,0.0,
+UNISWAPHALF,0.5X Long Uniswap Index Token,True,True,0.0,0.0,
+UNISWAPHEDGE,1X Short Uniswap Index Token,True,True,0.0,0.0,
+USD,USD Stablecoin,False,False,1.0,1.0,0.0
+USDC,USD Coin,False,False,1.0,1.0,0.0
+USDT,Tether,False,False,0.975,0.95,1e-05
+USDTBEAR,3X Short Tether Token,True,False,0.0,0.0,
+USDTBULL,3X Long Tether Token,True,False,0.0,0.0,
+USDTDOOM,10X Short Tether Token,True,False,0.0,0.0,
+USDTHALF,0.5X Long Tether Token,True,False,0.0,0.0,
+USDTHEDGE,1X Short Tether Token,True,False,0.0,0.0,
+USDTMOON,10X Long Tether Token,True,False,0.0,0.0,
+USO,United States Oil Fund,False,False,0.9,0.85,0.0025
+VET,VeChain,False,False,0.0,0.0,
+VETBEAR,3X Short VeChain Token,True,False,0.0,0.0,
+VETBULL,3X Long VeChain Token,True,False,0.0,0.0,
+VETHALF,0.5X Long VeChain Token,True,False,0.0,0.0,
+VETHEDGE,1X Short VeChain Token,True,False,0.0,0.0,
+VGX,Voyager Token,False,False,0.0,0.0,
+WARREN,Warren 2020,False,False,0.0,0.0,
+WAVES,Waves,False,False,0.0,0.0,
+WBTC,Wrapped BTC,False,False,0.975,0.95,0.005
+WRX,WazirX Token,False,False,0.0,0.0,
+WSB,WallStreetBets,False,False,0.0,0.0,
+XAUT,Tether Gold,False,False,0.95,0.9,0.002
+XAUTBEAR,3X Short Tether Gold Token,True,False,0.0,0.0,
+XAUTBULL,3X Long Tether Gold Token,True,False,0.0,0.0,
+XAUTHALF,0.5X Long Tether Gold Token,True,False,0.0,0.0,
+XAUTHEDGE,1X Short Tether Gold Token,True,False,0.0,0.0,
+XEM,NEM,False,False,0.0,0.0,
+XLM,Stellar,False,False,0.0,0.0,
+XLMBEAR,3X Short Stellar Token,True,False,0.0,0.0,
+XLMBULL,3X Long Stellar Token,True,False,0.0,0.0,
+XMR,Monero,False,False,0.0,0.0,
+XRP,XRP,False,False,0.95,0.9,2e-05
+XRPBEAR,3X Short XRP Token,True,False,0.0,0.0,
+XRPBULL,3X Long XRP Token,True,False,0.0,0.0,
+XRPDOOM,10X Short XRP Token,True,False,0.0,0.0,
+XRPHALF,0.5X Long XRP Token,True,False,0.0,0.0,
+XRPHEDGE,1X Short XRP Token,True,False,0.0,0.0,
+XRPMOON,10X Long XRP Token,True,False,0.0,0.0,
+XTZ,Tezos,False,False,0.0,0.0,
+XTZBEAR,3X Short Tezos Token,True,False,0.0,0.0,
+XTZBULL,3X Long Tezos Token,True,False,0.0,0.0,
+XTZDOOM,10X Short Tezos Token,True,False,0.0,0.0,
+XTZHALF,0.5X Long Tezos Token,True,False,0.0,0.0,
+XTZHEDGE,1X Short Tezos Token,True,False,0.0,0.0,
+XTZMOON,10X Long Tezos Token,True,False,0.0,0.0,
+YANG,Yang 2020,False,False,0.0,0.0,
+YFI,Yearn.Finance,False,False,0.9,0.85,0.015
+YFII,DFI.Money,False,False,0.0,0.0,
+ZEC,Zcash,False,False,0.0,0.0,
+ZECBEAR,3X Short Zcash Token,True,False,0.0,0.0,
+ZECBULL,3X Long Zcash Token,True,False,0.0,0.0,
+ZIL,Zilliqa,False,False,0.0,0.0,
+ZM,Zoom,False,False,0.9,0.85,0.01
+ZRX,0x,False,False,0.85,0.8,0.001
